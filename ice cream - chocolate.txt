@@ -1,0 +1,42 @@
+Original is from: https://www.wouterbulten.nl/blog/food/dark-chocolate-ice-cream-sous-vide/
+
+Ingredients
+
+These ingredients results in 950 grams of ice cream base and is roughly the quantity needed for a single run of most ice cream machines.
+
+* 525 grams double cream (35% fat) (1050g double)
+* 77 grams whole milk (3.4% fat) (144g double)
+* 35 grams skim milk powder (70g double)
+* 152 grams sugar (304g double)
+* 86 grams egg yolks (172g double)
+* 76 grams cocoa mass (152g double)
+* 1 teaspoon vanilla extract (2 tsp double)
+* 0.24 grams salt (0.48g double)
+
+Note on cocoa mass: The rich and non-sweet character of this ice cream is due to using cocoa mass instead of chocolate. I use cocoa mass from Callebaut, but it can be hard to find a supplier. Some alternatives are available through Amazon. If you cannot find cocoa mass, you can substitute it with high-cocoa chocolate (like 90%).
+Equipment
+
+* Emersion circulator. I use an Anova, but any brand will do.
+* Vacuum pouches + sealer. I use a fairly cheap vacuum sealer from Foodsaver.
+* Waterbath, can be a large pan or plastic container.
+* Saucepan to heat the cream.
+* Stick blender (optional, but will result in smoother ice cream).
+* Ice cream churner, I use a Smart Scoop from Breville. Available as the Sage Smart Scoop in Europe.
+
+Note on sous vide: This recipe can also be made non-sous vide if you have access to a food thermometer. Instead of heating the mixture in a water bath, heat the mixture on the stove and keep it for 25 minutes at 72 °C. Heating the mixture on the stove will result in more evaporation; to counter this, you can increase the amount of cream with 10%. I haven’t tested the non-sous vide version, let me know your results in the comments!
+Steps
+
+* Heat the water bath, set the circulator to 72 °C (161.6F).
+* Add milk and cream to the saucepan, heat until around 70 °C. Don’t let the mixture boil.
+* Add the warm mixture to the chocolate, let the chocolate melt (about 1 minute).
+* Emulsify the cream-chocolate mixture with the stick blender. Try to minimize bubbles forming. If you don’t have a stick blender at hand, you can skip this step and use a whisk. If skipping, there is a chance that some small cocoa mass chunks will be in the ice cream.
+* Combine sugar, eggs and salt. Add milk powder. Mix well.
+* Slowly incorporate the chocolate mixture into the eggs.
+* Transfer the mixture to a vacuum bag.
+* Seal the bag and add it to the water bath.
+* Heat the mixture for 30 minutes at 72 °C.
+* Remove the bag from the water bath and transfer to a bowl with ice water. Cool the mixture as fast as possible. You can also cool the bag under running water in the sink.
+* Store the mixture in the bag in the fridge overnight.
+* The next day, sieve the mixture and add one tablespoon of the vanilla extract by taste.
+* Churn the ice cream according to the instructions of your ice cream machine.
+* After churning, quickly transfer the ice cream to a pre-cooled storage container. Let the ice cream harden in the freezer, this takes roughly 3 hours.
