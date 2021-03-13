@@ -2,12 +2,25 @@ Recipe taken from:
 
 https://www.youtube.com/watch?v=kjRzVyn3Twc
 
-egg white 160g 
-sugar 150g 
-almond flour 190g 
-sugar powder 170g
+# Ingredients
+* egg white 160g 
+* sugar 150g 
+* almond flour 190g 
+* Powdered sugar 170g
 
+# Instructions
+* Mix icing sugar and flour. Put flour through sieve
+* Gently whisk egg whites and regular sugar
+* Cook in double boiler at 50C over boiling water
+* Whisk meringue in stand mixer at medium speed (4-6) for 10 minutes
+* Mix meringue in stand mixer at medium-high speed (6-8) for 4 minutes
+* Add almond flour / powdered sugar mix to meringue and mix in stand mixer until thoroughly mixed
+* Transfer into piping bag and put onto silicone or teflon sheet
+* Preheat oven to 120C
+* Place sheet in oven for 2-3 minutes with door open (oven drying)
+* Close door and bake at 145C x 15mins
 
+# FAQ
 1. What is oven shower..??
 - The oven-shower is to wait 2-3 minutes without removing the tray in the oven after baking. (with open the oven door)
 
