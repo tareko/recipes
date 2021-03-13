@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=kjRzVyn3Twc
 * Powdered sugar 170g
 
 # Instructions
-* Mix icing sugar and flour. Put flour through sieve
+* Mix icing sugar and flour. Sift flour
 * Gently whisk egg whites and regular sugar
 * Cook in double boiler at 50C over boiling water
 * Whisk meringue in stand mixer at medium speed (4-6) for 10 minutes
