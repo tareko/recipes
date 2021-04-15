@@ -7,7 +7,7 @@
 * 1.5 tsp vanilla / orange water / blossom water
 
 # Method
-* Mix sugar and water over medium-high 
+* Mix sugar and water over medium-high heat
 * Whisk egg yolks in stand mixer
 * Slowly add sugar-water mixture
 * Mix
