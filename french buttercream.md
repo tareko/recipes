@@ -1,10 +1,10 @@
 # Ingredients
 
-* 100g sugar
-* 45ml water
-* 5 egg yolks
-* 1 cup Butter
-* 1.5 tsp vanilla / orange water / blossom water
+* 50g sugar
+* 25ml water
+* 3 egg yolks
+* 1 stick (1/2 cup) butter
+* 1 tsp vanilla / orange water / blossom water
 
 # Method
 * Mix sugar and water over medium-high heat
