@@ -1,6 +1,4 @@
-Original is from: https://www.wouterbulten.nl/blog/food/dark-chocolate-ice-cream-sous-vide/
-
-Ingredients
+# Ingredients
 
 These ingredients results in 950 grams of ice cream base and is roughly the quantity needed for a single run of most ice cream machines.
 
@@ -14,19 +12,21 @@ These ingredients results in 950 grams of ice cream base and is roughly the quan
 * 0.24 grams salt (0.48g double)
 
 Note on cocoa mass: The rich and non-sweet character of this ice cream is due to using cocoa mass instead of chocolate. I use cocoa mass from Callebaut, but it can be hard to find a supplier. Some alternatives are available through Amazon. If you cannot find cocoa mass, you can substitute it with high-cocoa chocolate (like 90%).
-Equipment
 
-* Emersion circulator. I use an Anova, but any brand will do.
-* Vacuum pouches + sealer. I use a fairly cheap vacuum sealer from Foodsaver.
+# Equipment
+
+* Immersion circulator (sous vide)
+* Vacuum pouches + sealer
 * Waterbath, can be a large pan or plastic container.
-* Saucepan to heat the cream.
-* Stick blender (optional, but will result in smoother ice cream).
-* Ice cream churner, I use a Smart Scoop from Breville. Available as the Sage Smart Scoop in Europe.
+* Saucepan to heat the cream
+* Blender
+* Ice cream churner
 
 Note on sous vide: This recipe can also be made non-sous vide if you have access to a food thermometer. Instead of heating the mixture in a water bath, heat the mixture on the stove and keep it for 25 minutes at 72 °C. Heating the mixture on the stove will result in more evaporation; to counter this, you can increase the amount of cream with 10%. I haven’t tested the non-sous vide version, let me know your results in the comments!
-Steps
 
-* Heat the water bath, set the circulator to 72 °C (161.6F).
+# Steps
+
+* Heat the water bath, set the circulator to 72°C (161.6F).
 * Add milk and cream to the saucepan, heat until around 70 °C. Don’t let the mixture boil.
 * Add the warm mixture to the chocolate in the vitamix container, let the chocolate melt (about 1 minute).
 * Emulsify the cream-chocolate mixture with the vitamix on slow speed. Try to minimize bubbles forming.
@@ -42,3 +42,5 @@ Steps
 * The next day, sieve the mixture and add one teaspoon of the vanilla extract by taste.
 * Churn the ice cream according to the instructions of your ice cream machine.
 * After churning, quickly transfer the ice cream to a pre-cooled storage container. Let the ice cream harden in the freezer, this takes roughly 3 hours.
+
+Original is from: https://www.wouterbulten.nl/blog/food/dark-chocolate-ice-cream-sous-vide/
