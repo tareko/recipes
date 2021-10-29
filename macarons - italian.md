@@ -25,11 +25,11 @@ an even disk when poured. Transfer then the macaron batter into a piping bag fit
 round tip.
 
 # Baking
-* Preheat a convection oven at 140°C (290°F) for 10 minutes
+* Preheat a convection oven at 149°C (300°F) for 10 minutes
 * Prepare a template paper with 3cm circles, spacing them at least 2cm apart
 * Place 4 dots of the batter in each corner of a rimmed baking sheet. Place the template paper on the baking sheet then place the parchment paper over it
 * Pipe the macarons onto the parchment paper, in 3 cm circles filing the templated circles
-* Bake the macarons in the oven for 25 to 30 minutes.
+* Bake the macarons in the oven for 15 minutes.
 * When the macarons are well baked (set but not browning), remove them from the oven and let them dry for 10 minutes at ambient temperature
 
 # Sealing the Macarons
