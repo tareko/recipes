@@ -1,12 +1,11 @@
 # Ingredients
-* Equal parts:
- * 65 g finely grounded almond flour
- * 65 g icing sugar
+* 130 g finely grounded almond flour
+* 130 g icing sugar
 * Syrup:
- * 60g powdered sugar
- * 20g water
-* 25g egg whites - first bowl
-* 25g egg whites + food colouring - second bowl
+ * 120g powdered sugar
+ * 40g water
+* 50g egg whites - first bowl
+* 50g egg whites + food colouring - second bowl
 
 # Meringue
 * Whip egg whites using whisk attachment at high speed until it has stiff peaks
