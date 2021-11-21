@@ -21,15 +21,17 @@
 * Incorporate the almond paste and the meringue with a spatula and finish the mixing with a
 pastry horn to get the macaron batter
 * Stop the macaronage when the mixture forms a continuous strip or flattens immediately into
-an even disk when poured. Transfer then the macaron batter into a piping bag fitted with a plain
-round tip.
+an even disk when poured.
+* Transfer then the macaron batter into a piping bag fitted with a plain
+round tip
 
 # Baking
 * Preheat a convection oven at 149°C (300°F) for 10 minutes
 * Prepare a template paper with 3cm circles, spacing them at least 2cm apart
 * Place 4 dots of the batter in each corner of a rimmed baking sheet. Place the template paper on the baking sheet then place the parchment paper over it
 * Pipe the macarons onto the parchment paper, in 3 cm circles filing the templated circles
-* Bake the macarons in the oven for 15 minutes.
+* Rest the macarons for 30 minutes
+* Bake the macarons in the oven for 15 minutes
 * When the macarons are well baked (set but not browning), remove them from the oven and let them dry for 10 minutes at ambient temperature
 
 # Sealing the Macarons
