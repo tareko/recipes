@@ -1,5 +1,5 @@
 # Ingredients
-* 130 g finely grounded almond flour
+* 130 g finely ground almond flour
 * 130 g icing sugar
 * Syrup:
  * 120g powdered sugar
