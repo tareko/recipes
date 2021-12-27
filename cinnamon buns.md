@@ -36,7 +36,7 @@
 * Flour a rolling pin and roll the dough to about a 24×15" rectangle. (the size of the rectangle can vary…it does not have to be exact!)
 * Use a rubber spatula to smooth the cinnamon filling over the whole dough rectangle.
 * Starting on the long end, roll the dough up tightly jelly roll style. 
-* Cut into 12 slices and place in a greased 9×13 baking pan.****
+* Cut into 12 slices and place in a greased 9×13" baking pan.
 * Cover the pan and allow the rolls to rise for 20 minutes or until nearly double.
 * Preheat the oven to 375 degrees.
 * Warm the heavy cream until the chill is off. It should be warm to the touch, but not hot.
