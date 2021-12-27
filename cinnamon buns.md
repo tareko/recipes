@@ -6,7 +6,7 @@
 * 1/3 cup salted butter melted, not hotter than 40ºC. Softened is fine.
 * 100g granulated sugar
 * 1 teaspoon salt
-* 540 cups bread flour (divided into 480g / 60g)
+* 540g bread flour (divided into 480g / 60g)
 
 ## Filling
 * 1/2 cup salted butter (almost melted)
