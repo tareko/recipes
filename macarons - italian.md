@@ -26,7 +26,7 @@ an even disk when poured.
 round tip
 
 # Baking
-* Preheat a convection oven at 149°C (300°F) for 10 minutes
+* Preheat a convection oven at 149°C (300°F) for 10 minutes. For my oven, I have to set it to regular bake, not convection
 * Prepare a template paper with 3cm circles, spacing them at least 2cm apart
 * Place 4 dots of the batter in each corner of a rimmed baking sheet. Place the template paper on the baking sheet then place the parchment paper over it
 * Pipe the macarons onto the parchment paper, in 3 cm circles filing the templated circles
