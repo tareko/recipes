@@ -1,7 +1,7 @@
 # Ingredients
 ## Dough
 * 1 cup warm milk (~45°C)
-* 2 1/2 teaspoons instant dry yeast
+* 9g instant dry yeast
 * 2 large eggs at room temperature
 * 1/3 cup salted butter melted, not hotter than 40ºC. Softened is fine.
 * 100g granulated sugar
@@ -24,9 +24,9 @@
 # Instructions
 * Pour the warm milk in the bowl of a stand mixer and sprinkle the yeast overtop.
 * Add the eggs, butter and sugar. Mix until combined.
-* Add in salt and 4 cups (save the other ½ cup and add only if you need it) of flour and mix using the beater blade just until the ingredients are barely combined. Allow the mixture to rest for 5 minutes so the flour has time to soak up the liquids.
+* Add in salt and 480g of flour and mix using the beater blade just until the ingredients are barely combined. Allow the mixture to rest for 5 minutes so the flour has time to soak up the liquids.
 * Scrape the dough off the beater blade and remove it. Attach the dough hook.
-* Beat the dough on medium speed, adding in up to ½ cup more flour if needed to form a dough. Knead for 5-7 minutes or until the dough is elastic and smooth. **The dough should be tacky and will still be sticking to the sides of the bowl. That's ok! Don't be tempted to add more flour at this point. We generally add about 4 ½ cups, but start with 4 cups.
+* Beat the dough on medium speed, adding in up to 60g more flour if needed to form a dough. Knead for 5-7 minutes or until the dough is elastic and smooth. **The dough should be tacky and will still be sticking to the sides of the bowl. That's ok! Don't be tempted to add more flour at this point. We generally add about 540g, but start with 480g.
 * Spray a large bowl with cooking spray.
 * Use a rubber spatula to remove the dough from the mixer bowl and place it in the greased large bowl. 
 * Cover the bowl with a towel or wax paper.
@@ -39,9 +39,9 @@
 * Cut into 12 slices and place in a greased 9×13 baking pan.****
 * Cover the pan and allow the rolls to rise for 20 minutes or until nearly double.
 * Preheat the oven to 375 degrees.
-* Warm the heavy cream until the chill is off. Don’t make it hot…you just don’t want it cold. It should be warm to the touch.
+* Warm the heavy cream until the chill is off. It should be warm to the touch, but not hot.
 * Once the rolls have risen, pour the heavy cream over the top of the rolls, allowing it to soak down in and around the rolls.
-* Bake at 375 degrees for 20-22 minutes, until the rolls are lightly golden brown and the center rolls are cooked through. Note…the time will vary based on how big the rolls are, what type of pan, how close the rolls are packed, etc. They could take up to 25-27 minutes. Check the rolls at 20 minutes. If they are getting too browned, cover loosely with foil for the remaining baking time.
+* Bake at 375 degrees for 20-22 minutes, until the rolls are lightly golden brown and the center rolls are cooked through. Check the rolls at 20 minutes. If they are getting too browned, cover loosely with foil for the remaining baking time.
 * While the rolls are cooling, prepare the cream cheese frosting.
 * In a large bowl, combine the softened cream cheese and butter using a hand mixer. Blend well.
 * Add in your favorite extract and the powdered sugar. Beat until combined.
