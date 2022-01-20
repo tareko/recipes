@@ -6,7 +6,7 @@ Makes one large pan or 4 small pans
 
 # Ingredients
 * 200g sugar
-* 2 Tbsp. butter, softened
+* 2 Tbsp butter, softened
 * 3 tsp lemon extract (orig: 2tsp)
 * 1 tsp vanilla
 * 105g - 1/2 cup oil
@@ -29,7 +29,7 @@ Makes one large pan or 4 small pans
 
 * In a mixing bowl, combine the flour, pudding mix, baking powder, baking soda, and salt.
 
-* Gradually add the dry ingredients to the wet, stopping to scrape down the sides of the bowl. Add the lemon zest, and mix until just combined. Pour the batter into the prepared loaf pan. Bake for 55 minutes, or until center is fully set, and a toothpick inserted comes out crumb free.
+* Gradually add the dry ingredients to the wet, stopping to scrape down the sides of the bowl. Add the lemon zest, and mix until just combined. Pour the batter into the prepared loaf pan about half way up the pan. Bake for 55 minutes, or until center is fully set, and a toothpick inserted comes out crumb free.
 
 * After baking, let cool in the pan for 5-10 minutes. Run a knife around the sides of the pan, invert and remove from the pan, removing the waxed paper from the bottom. Cool completely on a cooling rack.
 
