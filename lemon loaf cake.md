@@ -1,6 +1,6 @@
 Glass container cook time: 1h15m
 Wide aluminum container cook time: 1h
-Small cake pans cook time: 50m
+Small cake pans cook time: 40m
 
 Makes one large pan or 4 small pans
 
