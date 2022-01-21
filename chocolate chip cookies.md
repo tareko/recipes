@@ -1,5 +1,8 @@
 Original is from: https://www.seriouseats.com/bravetart-chocolate-chip-cookies-recipe
 
+Cook time with small pans: 20 minutes
+Weight of pan plus dough before cooking: 310g
+
 # Ingredients (halved)
 * 200g assorted dark, milk, or white chocolate (not commercial chips), roughly chopped
 * 180g flour
