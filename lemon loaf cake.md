@@ -2,6 +2,10 @@ Glass container cook time: 1h15m
 Wide aluminum container cook time: 1h
 Small cake pans cook time: 40m
 
+Smart oven settings:
+* Temp 175°, _no_ convection
+* Time: 27 minutes
+
 Makes one large pan or 4 small pans
 
 # Ingredients
@@ -25,7 +29,7 @@ Makes one large pan or 4 small pans
 # Directions
 * Preheat oven to 350 degrees. Line the bottom of a 5 x 9" loaf pan with a piece of waxed paper. (With a pencil, trace the bottom of the pan on a piece of waxed paper and cut out with scissors.) Spray the pan, and waxed paper with non-stick baking spray. Set aside.
 
-* With a stand or hand mixer, combine the eggs, sugar, butter, vanilla, lemon extract, lemon juice, oil and yogurt. Mix until evenly combined. 
+* With a stand or hand mixer, combine the eggs, sugar, butter, vanilla, lemon extract, lemon juice, oil and yogurt. Mix until evenly combined.
 
 * In a mixing bowl, combine the flour, pudding mix, baking powder, baking soda, and salt.
 
@@ -40,4 +44,3 @@ Makes one large pan or 4 small pans
 * 1 tsp lemon extract
 
 * Combine the butter, lemon juice and lemon extract with hand or stand mixer. Gradually add the powdered sugar, and beat until smooth and creamy. Evenly spread the frosting over the top of the loaf. Refrigerate to let frosting set completely before slicing. Refrigerate any leftovers in an airtight container.
-
