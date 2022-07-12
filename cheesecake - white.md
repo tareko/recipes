@@ -1,14 +1,16 @@
 Cook time in red dish: 50 mins
+Cook time in small pans: 30 mins
+
+Weight of crust in pan: 88 g
 
 # Ingredients
 ## Crust
-* 2 cups finely ground graham crackers (about 30 squares)
-* 14-16 crackers of the rectangles
+* 2 cups finely ground graham crackers - about 30 squares / 14-16 crackers of the rectangles found in Canada (HoneyMaid 400g boxes)
 * 1/2 teaspoon ground cinnamon
 * 1 stick unsalted butter, melted
 
 ## Filling
-* 1 pound cream cheese, two 8-ounce blocks, softened
+* 500g cream cheese, softened (two blocks)
 * 3 eggs
 * 200g sugar
 * 500mL sour cream
