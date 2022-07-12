@@ -1,31 +1,40 @@
-Bake time in grey pan: 65 minutes
+Cook time in grey pan: 65 minutes
+Cook time in small pans: 30 mins
+Cook time in muffin cups: 30 mins
+Cook time in mini muffin cups: 30 mins
 
-For the crust
+
+Weight of crust in pan: 95 g
+
+Makes 4 small pans or one springform pan
+
+# Ingredients
+## Crust
 
 * 2 1/2 cups (250 grams) fudge filled cookie crumbs, about 30 sandwich cookies - full box of fudgee-o's. Blend them 5 at a time in the vitamix, and empty out about halfway through.
 * 86g (6 tablespoons) unsalted butter, melted
 
-For the filling
+## Filling
 
-* 24 ounces (681 grams) cream cheese, softened (3 blocks)
+* 750 g cream cheese, softened (3 blocks)
 * 3/4 cup (180 milliliters) heavy cream
-* 3/4 cup (150 grams) sugar
+* 150 g sugar
 * 1 tablespoon vanilla extract
 * 1/2 teaspoon salt
-* 2 cups (560 grams) Nutella
+* 560 g Nutella
 * 4 large eggs, lightly beaten
 
-For the glaze
+## Glaze
 
 * 1 cup (280 grams) Nutella
 * 1/2 cup (120 milliliters) heavy cream
 
-Instructions
-Make the crust
+# Instructions
+## Crust
 
 * Adjust the oven rack to the lower third position and preheat the oven to 350ºF. Wrap the outer bottom of a 9-inch springform pan tightly with aluminum foil. Combine the cookie crumbs and melted butter. Press the crumb mixture into the bottom and about 2-inches up the sides of the pan. Bake for 10 minutes. Set aside to cool while you make the filling.
 
-Make the filling
+## Filling
 
 * Reduce the oven temperature to 300ºF. 
 * In a large mixing bowl beat the cream cheese, heavy cream, and sugar with an electric mixer until smooth and fluffy. 
@@ -36,7 +45,7 @@ Make the filling
 * Bake for time as above, OR until the edges are set and the center is slightly jiggly. Turn the oven off, leave the cheesecake in the water bath in the oven for another hour.
 * Remove the cheesecake from the water bath and run a small knife around the outer edge of the cheesecake to loosen it from the pan. Allow it to cool completely to room temperature. (The cheesecake should not feel the slightest bit warm.) Refrigerate the cheesecake overnight.
 
-Make the glaze
+## Glaze
 
 * Remove the sides of the pan and place the cheesecake on a wire rack set over a baking sheet.
 * Bring the cream to a low boil over medium-low heat. Pour the warm cream over the Nutella in a medium bowl and stir to combine. 
