@@ -26,4 +26,10 @@ Weight of pan plus dough before cooking: 310g
 
 Portion the Dough: Divide in 2-tablespoon portions (about 1 1/2 ounces or 40g each) and round each one into a smooth ball. (If you like, portioned dough can be refrigerated in a heavy-duty zipper-lock bag up to 1 week, or frozen 6 months. Stand at room temperature until quite soft, about 70°F or 21°C, and proceed as directed.) 
 
-To Bake: Arrange portions on a parchment-lined half sheet pan, leaving 2 inches between cookies to account for spread. Garnish each with reserved chocolate and a pinch of kosher salt. Bake until puffed and pale gold around the edges but steamy in the middle, about 15 minutes. For crunchy cookies, continue baking until golden, 3 to 5 minutes more. Cool directly on baking sheet until crumb is set, about 5 minutes. Enjoy warm or store in an airtight container up to 2 days at room temperature. 
+To Bake: Arrange portions on a parchment-lined half sheet pan, leaving 2 inches between cookies to account for spread. Garnish each with reserved chocolate and a pinch of kosher salt. Bake until puffed and pale gold around the edges but steamy in the middle, about 15 minutes. For crunchy cookies, continue baking until golden, 3 to 5 minutes more. Cool directly on baking sheet until crumb is set, about 5 minutes. Enjoy warm or store in an airtight container up to 2 days at room temperature.
+
+# Vegan substitutions
+|Product|Substitution|Comments|
+|-------|------------|--------|
+|Nuts for butter Salted Original Organic and dairy-free cultured cashew product|1 to 1|Comes out a bit dry. Consider adding 15mL of safflower oil
+
