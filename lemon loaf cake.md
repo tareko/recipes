@@ -9,6 +9,7 @@ Smart oven settings:
 Makes one large pan or 4 small pans
 
 # Ingredients
+## Wet bowl
 * 200g sugar
 * 2 Tbsp butter, softened (30 g)
 * 3 tsp lemon extract (orig: 2tsp)
@@ -18,6 +19,7 @@ Makes one large pan or 4 small pans
 * 1/3 c. fresh lemon juice
 * 3 eggs
 
+## Dry bowl
 * 180g flour
 * lemon pudding mix
 * (2.3g) 1/2 tsp. baking powder
