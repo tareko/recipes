@@ -31,5 +31,5 @@ To Bake: Arrange portions on a parchment-lined half sheet pan, leaving 2 inches 
 # Vegan substitutions
 |Product|Substitution|Comments|
 |-------|------------|--------|
-|Nuts for butter Salted Original Organic and dairy-free cultured cashew product|1 to 1|Comes out a bit dry. Consider adding 15mL of safflower oil
+|Nuts for butter Salted Original Organic and dairy-free cultured cashew product|1 to 1 butter + 5mL safflower oil|Comes out a bit dry. Consider adding 15mL of safflower oil. Time is 16 minutes for crispy edges.
 
