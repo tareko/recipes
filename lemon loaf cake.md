@@ -10,7 +10,7 @@ Makes one large pan or 4 small pans
 
 # Ingredients
 * 200g sugar
-* 2 Tbsp butter, softened
+* 2 Tbsp butter, softened (30 g)
 * 3 tsp lemon extract (orig: 2tsp)
 * 1 tsp vanilla
 * 105g - 1/2 cup oil
