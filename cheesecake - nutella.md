@@ -1,7 +1,7 @@
-Cook time in grey pan: 65 minutes
-Cook time in small pans: 30 mins
-Cook time in muffin cups: 30 mins
-Cook time in mini muffin cups: 30 mins
+* Cook time in grey pan: 65 minutes
+* Cook time in small pans: 30 mins
+* Cook time in muffin cups: 30 mins
+* Cook time in mini muffin cups: 30 mins
 
 
 Weight of crust in pan: 95 g
@@ -36,7 +36,7 @@ Makes 4 small pans or one springform pan
 
 ## Filling
 
-* Reduce the oven temperature to 300ºF. 
+* Reduce the oven temperature to 150ºC. 
 * In a large mixing bowl beat the cream cheese, heavy cream, and sugar with an electric mixer until smooth and fluffy. 
 * Add the vanilla and salt, beat on low speed until smooth. 
 * Add the Nutella and beat until well incorporated. 
