@@ -1,7 +1,7 @@
 # Pie Crust
 
 ## Ingredients
-* 12 tablespoons (1 1/2 sticks) very cold unsalted butter
+* 170g 12 tablespoons (1 1/2 sticks) very cold unsalted butter
 * 360 g all-purpose flour
 * 2.5 g kosher salt
 * 12 g sugar
